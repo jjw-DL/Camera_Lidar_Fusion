@@ -19,3 +19,7 @@
    - Object Detection with YOLO
 1. Lesson 7: Starter code for "Project: Track an Object in 3D Space" is available here - https://github.com/udacity/SFND_3D_Object_Tracking
 
+## YOLO Weight
+https://pjreddie.com/darknet/yolo/
+- YOLOv3-416  weight
+- YOLOv3-tiny  weight
